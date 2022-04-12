@@ -1,0 +1,4 @@
+*.txt
+/main.py
+/main2.py
+/pickle.pkl/*
